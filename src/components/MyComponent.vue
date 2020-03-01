@@ -9,7 +9,7 @@
       tile
     >
       <v-card-title class="teal">
-        <strong class="subheading">Get connected with us on social networks!</strong>
+        <strong class="subheading">Suivez-moi sur les réseaux socieux</strong>
 
         <v-spacer></v-spacer>
 
@@ -33,14 +33,11 @@
 
 <script>
   export default {
-    name: 'MyComponent',
     data: () => ({
       icons: [
         'fab fa-facebook',
         'fab fa-twitter',
-        'fab fa-google-plus',
         'fab fa-linkedin',
-        'fab fa-instagram',
       ],
     }),
   }

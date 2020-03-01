@@ -23,7 +23,7 @@
   <v-parallax
     dark
     src="https://static.moniteurautomobile.be/imgcontrol/images_tmp/clients/moniteur/c680-d465/content/medias/images/news/33000/200/20/f1_2021_2.jpg"
-    height="800"
+    height="600"
   >
     <v-row
       align="center"
